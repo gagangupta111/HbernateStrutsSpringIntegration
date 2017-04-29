@@ -134,8 +134,6 @@
             <artifactId>cglib</artifactId>
             <version>2.2</version>
         </dependency>
-        <!-- Hibernate core library dependecy end -->
-
         <!-- Hibernate query library dependecy start -->
         <dependency>
             <groupId>antlr</groupId>
